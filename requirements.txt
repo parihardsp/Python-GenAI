@@ -1,0 +1,37 @@
+# Core Libraries
+pandas==2.2.3              # Data analysis
+scikit-learn==1.6.1        # Machine learning
+
+# Visualization
+matplotlib==3.10.3         # Static plots
+plotly==6.0.1              # Interactive charts
+
+# Jupyter Support
+ipykernel==6.29.5          # Jupyter kernel
+ipython_pygments_lexers==1.1.1  # Syntax highlighting
+
+# Development Tools
+pip==22.3                  # Package manager
+setuptools==65.5.0         # Packaging utility
+pipreqs==0.5.0             # Auto-generate requirements
+
+# HTML/CSS Parsing (optional)
+tinycss2==1.4.0            # CSS parsing support
+
+# GenAI / NLP / LangChain Tools
+chromadb==1.0.12           # Vector DB backend
+faiss-cpu==1.11.0          # Vector similarity search
+langchain-anthropic==0.3.15  # LangChain Anthropic support
+langchain-community==0.3.25  # Community integrations
+langchain-openai==0.3.22     # OpenAI support in LangChain
+
+# API & Web Support
+newsapi-python==0.2.7      # News API client
+httptools==0.6.4           # HTTP parser
+watchfiles==1.0.5          # File watching for dev
+websockets==15.0.1         # Async WebSocket client/server
+
+# Misc
+dotenv==0.9.9              # .env file loader
+wikipedia==1.4.0           # Wikipedia API wrapper
+pypdf==5.6.0               # PDF parsing
